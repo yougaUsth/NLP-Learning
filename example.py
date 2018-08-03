@@ -2,4 +2,5 @@
 
 
 def help():
-    print "Help message"
+    print "do something"
+
